@@ -1,7 +1,5 @@
 // 키패드
 
-package CodingTest;
-
 public class KeyPad {
   public static void main(String[] args) {
     Left l = new Left();

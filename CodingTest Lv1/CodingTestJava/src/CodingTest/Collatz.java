@@ -1,5 +1,3 @@
-package CodingTestJava.src.CodingTest;
-
 public class Collatz {
   public static void main(String[] args) {
     Solution sol = new Solution();

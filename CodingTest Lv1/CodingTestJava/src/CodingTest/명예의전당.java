@@ -1,5 +1,3 @@
-package CodingTest;
-
 import java.util.Arrays;
 
 public class 명예의전당 {

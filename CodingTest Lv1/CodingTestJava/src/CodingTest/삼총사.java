@@ -1,6 +1,3 @@
-package CodingTest;
-
-
 public class 삼총사 {
   public static void main(String[] args) {
     Solution2 sol = new Solution2();
